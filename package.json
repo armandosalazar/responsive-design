@@ -4,6 +4,7 @@
   "description": "Responsive Design and test",
   "main": "main.js",
   "scripts": {
+    "dev": "tsc -w ts/* --outDir js",
     "build": "tsc ts/* --outDir js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
