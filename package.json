@@ -1,0 +1,23 @@
+{
+  "name": "responsive-design",
+  "version": "1.0.0",
+  "description": "Responsive Design and test",
+  "main": "main.js",
+  "scripts": {
+    "build": "tsc ts/* --outDir js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/armandosalazar/responsive-design.git"
+  },
+  "author": "Armando Salazar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/armandosalazar/responsive-design/issues"
+  },
+  "homepage": "https://github.com/armandosalazar/responsive-design#readme",
+  "devDependencies": {
+    "typescript": "^5.3.3"
+  }
+}
